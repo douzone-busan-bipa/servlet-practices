@@ -41,7 +41,7 @@
 		문장3 입니다.~~~<br/>
 	</p>
 	<br/>
-	<a href="/helloweb/hello">hello로 가기</a>
+	<a href="/helloweb/hello?name=안대혁">hello로 가기</a>
 	<br/>
 	<a href="form.jsp">폼으로 가기</a>
 </body>
